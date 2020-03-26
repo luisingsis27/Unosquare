@@ -1,0 +1,5 @@
+/Volumes/LuisArchivos/unosquare/InfColorPickerBinding/InfColorPickerBinding/bin/Debug/NativeLibrary.dll
+/Volumes/LuisArchivos/unosquare/InfColorPickerBinding/InfColorPickerBinding/bin/Debug/NativeLibrary.pdb
+/Volumes/LuisArchivos/unosquare/InfColorPickerBinding/InfColorPickerBinding/obj/Debug/InfColorPickerBinding.csproj.CoreCompileInputs.cache
+/Volumes/LuisArchivos/unosquare/InfColorPickerBinding/InfColorPickerBinding/obj/Debug/NativeLibrary.dll
+/Volumes/LuisArchivos/unosquare/InfColorPickerBinding/InfColorPickerBinding/obj/Debug/NativeLibrary.pdb

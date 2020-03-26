@@ -1,0 +1,42 @@
+{
+  "version": 3,
+  "targets": {
+    "Xamarin.iOS,Version=v1.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "Xamarin.iOS,Version=v1.0": []
+  },
+  "packageFolders": {
+    "/Users/LUISMIL/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Volumes/LuisArchivos/unosquare/InfColorPickerBinding/InfColorPickerBinding/InfColorPickerBinding.csproj",
+      "projectName": "NativeLibrary",
+      "projectPath": "/Volumes/LuisArchivos/unosquare/InfColorPickerBinding/InfColorPickerBinding/InfColorPickerBinding.csproj",
+      "packagesPath": "/Users/LUISMIL/.nuget/packages/",
+      "outputPath": "/Volumes/LuisArchivos/unosquare/InfColorPickerBinding/InfColorPickerBinding/obj/",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "/Users/LUISMIL/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "xamarinios10"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "xamarinios10": {}
+    }
+  }
+}
